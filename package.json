@@ -1,6 +1,7 @@
 {
   "name": "app-rtc",
   "version": "0.1.0",
+  "homepage": "webrtc_front.amsoft.dev",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.8.1",
