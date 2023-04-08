@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/webrtc_front.amsoft.dev/static/css/main.7b005fa7.chunk.css",
-    "main.js": "/webrtc_front.amsoft.dev/static/js/main.9e522807.chunk.js",
-    "main.js.map": "/webrtc_front.amsoft.dev/static/js/main.9e522807.chunk.js.map",
-    "runtime-main.js": "/webrtc_front.amsoft.dev/static/js/runtime-main.fc5be83e.js",
-    "runtime-main.js.map": "/webrtc_front.amsoft.dev/static/js/runtime-main.fc5be83e.js.map",
-    "static/js/2.c866d299.chunk.js": "/webrtc_front.amsoft.dev/static/js/2.c866d299.chunk.js",
-    "static/js/2.c866d299.chunk.js.map": "/webrtc_front.amsoft.dev/static/js/2.c866d299.chunk.js.map",
-    "index.html": "/webrtc_front.amsoft.dev/index.html",
-    "static/css/main.7b005fa7.chunk.css.map": "/webrtc_front.amsoft.dev/static/css/main.7b005fa7.chunk.css.map",
-    "static/js/2.c866d299.chunk.js.LICENSE.txt": "/webrtc_front.amsoft.dev/static/js/2.c866d299.chunk.js.LICENSE.txt",
-    "static/media/camera.b50348a3.svg": "/webrtc_front.amsoft.dev/static/media/camera.b50348a3.svg",
-    "static/media/cameraOff.a61d4a02.svg": "/webrtc_front.amsoft.dev/static/media/cameraOff.a61d4a02.svg",
-    "static/media/mic.c9c9788e.svg": "/webrtc_front.amsoft.dev/static/media/mic.c9c9788e.svg",
-    "static/media/micOff.3a72f682.svg": "/webrtc_front.amsoft.dev/static/media/micOff.3a72f682.svg",
-    "static/media/sendMessageButton.9add4f6d.svg": "/webrtc_front.amsoft.dev/static/media/sendMessageButton.9add4f6d.svg",
-    "static/media/switchToScreenSharing.900d9338.svg": "/webrtc_front.amsoft.dev/static/media/switchToScreenSharing.900d9338.svg"
+    "main.css": "/static/css/main.7b005fa7.chunk.css",
+    "main.js": "/static/js/main.e5979852.chunk.js",
+    "main.js.map": "/static/js/main.e5979852.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.d99ba1f8.js",
+    "runtime-main.js.map": "/static/js/runtime-main.d99ba1f8.js.map",
+    "static/js/2.d18f5f27.chunk.js": "/static/js/2.d18f5f27.chunk.js",
+    "static/js/2.d18f5f27.chunk.js.map": "/static/js/2.d18f5f27.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.7b005fa7.chunk.css.map": "/static/css/main.7b005fa7.chunk.css.map",
+    "static/js/2.d18f5f27.chunk.js.LICENSE.txt": "/static/js/2.d18f5f27.chunk.js.LICENSE.txt",
+    "static/media/camera.b50348a3.svg": "/static/media/camera.b50348a3.svg",
+    "static/media/cameraOff.a61d4a02.svg": "/static/media/cameraOff.a61d4a02.svg",
+    "static/media/mic.c9c9788e.svg": "/static/media/mic.c9c9788e.svg",
+    "static/media/micOff.3a72f682.svg": "/static/media/micOff.3a72f682.svg",
+    "static/media/sendMessageButton.9add4f6d.svg": "/static/media/sendMessageButton.9add4f6d.svg",
+    "static/media/switchToScreenSharing.900d9338.svg": "/static/media/switchToScreenSharing.900d9338.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.fc5be83e.js",
-    "static/js/2.c866d299.chunk.js",
+    "static/js/runtime-main.d99ba1f8.js",
+    "static/js/2.d18f5f27.chunk.js",
     "static/css/main.7b005fa7.chunk.css",
-    "static/js/main.9e522807.chunk.js"
+    "static/js/main.e5979852.chunk.js"
   ]
 }
